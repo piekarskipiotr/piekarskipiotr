@@ -1,6 +1,6 @@
 ### Hi, I'm Peter 🐱‍💻
 
-## Junior Android Developer 👶🏻📱 and Student 👨🏻‍🎓 at [Collegium Da Vinci][cdv]
+## Android Developer 📱 and Student 👨🏻‍🎓 at [Collegium Da Vinci][cdv]
 
 - 💼 I'm looking for a job
 - 🔧 Currently I'm working on portfolio applications
