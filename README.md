@@ -1,34 +1,69 @@
-## I'm a Android Developer 🐱‍💻 and Student 👨🏻‍🎓 at [Collegium Da Vinci][cdv]
+## 👋 &nbsp;Hey there! I'm Peter
 
-- 💼 I'm looking for a job
-- 🔧 Currently I'm working on portfolio applications
-- 🥅 2020 Goals: Learn Kotlin, RxJava, Dependency Injection
+### 🐱‍💻 &nbsp;About me
 
-### Languages and Tools:
-<img align="left" alt="JAVA" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
-<img align="left" alt="Android" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
-<img align="left" alt="Android Jetpack" width="32px" src="https://4.bp.blogspot.com/-NnAkV5vpYuw/XNMYF4RtLvI/AAAAAAAAI70/kdgLm3cnTO4FB4rUC0v9smscN3zHJPlLgCLcBGAs/s1600/Jetpack_logo%2B%25282%2529.png"/>
-<img align="left" alt="ML Kit" width="32px" src="https://developers.google.com/ml-kit/images/homepage/hero.png"/>
-<img align="left" alt="Material Design" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png"/>
-<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" alt="PHP" width="32px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
-<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
+👾 &nbsp;Mainly I'm a Android Developer.\
+☕ &nbsp;I love coffee!\
+🏊‍♂️ &nbsp;I love swimming!\
+🎓 &nbsp;I'm currently studying Computer Science at the <b>[Collegium Da Vinci][cdv]</b>.\
+🎮 &nbsp;In my free time, I like to play games and watch anime.\
+💼 &nbsp;Open to job offers!\
+🔧 &nbsp;I'm working on two applications to my portfolio: <b>[myDiabetes][mydiabetes]</b> & <b>[WakeOnLan][wol]</b>.\
+✉️ &nbsp;You can shoot me an email at ppiekarski8@gmail.com! I'll try to respond as soon as possible.\
+🥅 &nbsp;2020 Goals: Learn Kotlin, RxJava, Dependency Injection.
 
-</br>
-</br>
+### 🛠 &nbsp;Tech Stack
 
-#### Get in touch:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />][gmail]
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
+<br>
+![Android Jetpack](https://img.shields.io/badge/Android%20Jetpack-4285F4?style=for-the-badge&logo=data:image/png;base64,aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xZS1KSkZJLXpNdkZ5dk5MVl82MDFBaEJlSzVSTWM1cS0vdmlldz91c3A9c2hhcmluZw==)&nbsp;
+![ML Kit](https://img.shields.io/badge/ML%20Kit-125AB8?style=for-the-badge&logo=data:image/png;base64,aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xa0FIOWlIR2xPT3R3X3FwcnE3Yi1UVm1yS29nYTd3TEIvdmlldz91c3A9c2hhcmluZw==)&nbsp;
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+<br>
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=181A1B)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&l&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)&nbsp;
 
+### 💕 &nbsp;Portfolio
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=myDiabetes&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=WakeOnLAN&theme=tokyonight"/>
+</p>
+
+
+### ⚙️ &nbsp;GitHub Statistics
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=piekarskipiotr&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true&hide=prs,issues,contribs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piekarskipiotr&theme=tokyonight"/>
+</p>
+
+### 🤝🏻 &nbsp;Get in touch
+
+<p align="center">
+  [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&amp;style=flat-square"/>][linkedin]
+  [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&amp;style=flat-square"/>][gmail]
+  [<img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&amp;style=flat-square"/>][instagram]
+  [<img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&amp;style=flat-square"/>][twitter]
+</p>
 
 
 [cdv]: https://cdv.pl/
+[mydiabetes]: https://github.com/piekarskipiotr/myDiabetes
+[wol]: https://github.com/piekarskipiotr/WakeOnLAN
 [linkedin]: https://www.linkedin.com/in/piekarskipiotr/
-[twitter]: https://twitter.com/xazai_
-[instagram]: https://www.instagram.com/piekarskiski/
 [gmail]: mailto:ppiekarski8@gmail.com
+[instagram]: https://www.instagram.com/piekarskiski/
+[twitter]: https://twitter.com/xazai_
+
+
