@@ -51,12 +51,12 @@
 ### 🤝🏻 &nbsp;Get in touch
 
 <p align="center">
-  [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&amp;style=flat-square"/>][linkedin]
-  [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&amp;style=flat-square"/>][gmail]
-  [<img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&amp;style=flat-square"/>][instagram]
-  [<img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&amp;style=flat-square"/>][twitter]
+  <a href="https://www.linkedin.com/in/piekarskipiotr/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&amp;style=flat-square"/></a>
+  <a href="mailto:ppiekarski8@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&amp;style=flat-square"/></a>
+  <a href="https://www.instagram.com/piekarskiski/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&amp;style=flat-square"/></a>
+  <a href="https://twitter.com/xazai_"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&amp;style=flat-square"/></a>
 </p>
-
+  
 
 [cdv]: https://cdv.pl/
 [mydiabetes]: https://github.com/piekarskipiotr/myDiabetes
