@@ -18,7 +18,7 @@
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+![Android](https://img.shields.io/badge/Android-brightgreen?style=for-the-badge&logo=android&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
 <br>
 ![Android Jetpack](https://img.shields.io/badge/Android%20Jetpack-4285F4?style=for-the-badge&logo=data:image/png;base64,aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xZS1KSkZJLXpNdkZ5dk5MVl82MDFBaEJlSzVSTWM1cS0vdmlldz91c3A9c2hhcmluZw==)&nbsp;
