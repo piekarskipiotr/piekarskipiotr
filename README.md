@@ -38,8 +38,8 @@
 ### 💕 &nbsp;Portfolio
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=myDiabetes&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=WakeOnLAN&theme=tokyonight"/>
+  <a alt="myDiabetes" href="https://github.com/piekarskipiotr/myDiabetes"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=myDiabetes&theme=tokyonight"/></a>
+  <a alt="WakeOnLAN" href="https://github.com/piekarskipiotr/WakeOnLAN"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=WakeOnLAN&theme=tokyonight"/></a>
 </p>
 
 
