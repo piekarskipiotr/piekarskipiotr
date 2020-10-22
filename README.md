@@ -1,5 +1,7 @@
 ## 👋 &nbsp;Hey there! I'm Peter
 
+<img alt="lofi" src="https://github.com/piekarskipiotr/piekarskipiotr/blob/main/assets/tumblr_oezv38ikwg1sznfdio1_500.gif" align="right"/>
+
 ### 🐱‍💻 &nbsp;About me
 
 👾 &nbsp;Mainly I'm a Android Developer.\
@@ -35,35 +37,41 @@
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)&nbsp;
 
 ### 💕 &nbsp;Portfolio
+
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=myDiabetes&theme=tokyonight"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=WakeOnLAN&theme=tokyonight"/>
 </p>
 
 
-### ⚙️ &nbsp;GitHub Statistics
 
+### ⚙️ &nbsp;GitHub Statistics
 <p align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=piekarskipiotr&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piekarskipiotr&theme=tokyonight"/>
 </p>
 
 ### 🤝🏻 &nbsp;Get in touch
-
 <p align="center">
   <a href="https://www.linkedin.com/in/piekarskipiotr/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&amp;style=flat-square"/></a>
   <a href="mailto:ppiekarski8@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&amp;style=flat-square"/></a>
+  <a href="http://m.me/piekarskiski"><img alt="messenger" src="https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white&amp;style=flat-square"/></a>
   <a href="https://www.instagram.com/piekarskiski/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&amp;style=flat-square"/></a>
+   <img alt="discord" src="https://img.shields.io/badge/Discord%3A%20xazai%234237-7289DA?logo=discord&logoColor=white&amp;style=flat-square"/>
   <a href="https://twitter.com/xazai_"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&amp;style=flat-square"/></a>
 </p>
-  
+ 
+ 
+
 
 [cdv]: https://cdv.pl/
 [mydiabetes]: https://github.com/piekarskipiotr/myDiabetes
 [wol]: https://github.com/piekarskipiotr/WakeOnLAN
 [linkedin]: https://www.linkedin.com/in/piekarskipiotr/
 [gmail]: mailto:ppiekarski8@gmail.com
+[messenger]: http://m.me/piekarskiski
 [instagram]: https://www.instagram.com/piekarskiski/
 [twitter]: https://twitter.com/xazai_
+[discord]: xazai#4237
 
 
