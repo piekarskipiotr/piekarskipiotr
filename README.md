@@ -11,7 +11,6 @@
 🎮 &nbsp;In my free time, I like to play games and watch anime.\
 💼 &nbsp;Open to job offers!\
 🔧 &nbsp;I'm working on two applications to my portfolio: <b>[myDiabetes][mydiabetes]</b> & <b>[WakeOnLan][wol]</b>.\
-✉️ &nbsp;You can shoot me an email at ppiekarski8@gmail.com! I'll try to respond as soon as possible.\
 🥅 &nbsp;2020 Goals: Learn Kotlin, RxJava, Dependency Injection.
 
 ### 🛠 &nbsp;Tech Stack
