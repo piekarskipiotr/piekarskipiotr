@@ -44,7 +44,7 @@
 ### ⚙️ &nbsp;GitHub Statistics
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=piekarskipiotr&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true&hide=prs,issues,contribs"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=piekarskipiotr&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piekarskipiotr&theme=tokyonight"/>
 </p>
 
