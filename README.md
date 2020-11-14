@@ -4,9 +4,10 @@
 
 ### 🐱‍💻 &nbsp;About me
 
-👾 &nbsp;Mainly I'm a Android Developer.\
+👾 &nbsp;Mainly I'm coding a Android applications.\
 ☕ &nbsp;I love coffee!\
 🏊‍♂️ &nbsp;I love swimming!\
+🐼 &nbsp;lazy.\
 🎓 &nbsp;I'm currently studying Computer Science at <b>[Collegium Da Vinci][cdv]</b>.\
 🎮 &nbsp;In my free time, I like to play games and watch anime.\
 💼 &nbsp;Open to job offers!\
@@ -44,11 +45,13 @@
 
 
 
+<!--for future
 ### ⚙️ &nbsp;GitHub Statistics
 <p align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=piekarskipiotr&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piekarskipiotr&theme=tokyonight"/>
 </p>
+-->
 
 ### 🤝🏻 &nbsp;Get in touch
 <p align="center">
