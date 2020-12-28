@@ -37,7 +37,7 @@
 ### 💕 &nbsp;Portfolio
 
 <p align="center">
-  <a alt="myDiabetes" href="https://github.com/piekarskipiotr/myDiabetes"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=myDiabetes&theme=tokyonight"/></a>
+  <a alt="myDiabetes" href="https://github.com/piekarskipiotr/MyDiabetes2"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=myDiabetes&theme=tokyonight"/></a>
   <a alt="WakeOnLAN" href="https://github.com/piekarskipiotr/WakeOnLAN"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=WakeOnLAN&theme=tokyonight"/></a>
 </p>
 
@@ -70,7 +70,7 @@
 
 
 [cdv]: https://cdv.pl/
-[mydiabetes]: https://github.com/piekarskipiotr/myDiabetes
+[mydiabetes]: https://github.com/piekarskipiotr/MyDiabetes2
 [wol]: https://github.com/piekarskipiotr/WakeOnLAN
 [linkedin]: https://www.linkedin.com/in/piekarskipiotr/
 [gmail]: mailto:ppiekarski8@gmail.com
