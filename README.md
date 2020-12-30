@@ -9,7 +9,6 @@
 🐼 &nbsp;lazy.\
 🎓 &nbsp;I'm currently studying Computer Science at <b>[Collegium Da Vinci][cdv]</b>.\
 🎮 &nbsp;In my free time, I like to play games and watch anime.\
-💼 &nbsp;Open to job offers!\
 🔧 &nbsp;I'm working on two applications to my portfolio: <b>[myDiabetes][mydiabetes]</b> & <b>[WakeOnLan][wol]</b>.\
 🥅 &nbsp;2020 Goals: Switch to Kotlin.
 
