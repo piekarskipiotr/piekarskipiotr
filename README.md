@@ -9,7 +9,7 @@
 🐼 &nbsp;lazy.\
 🎓 &nbsp;I'm currently studying Computer Science at <b>[Collegium Da Vinci][cdv]</b>.\
 🎮 &nbsp;In my free time, I like to play games and watch anime.\
-🔧 &nbsp;I'm working on two applications to my portfolio: <b>[myDiabetes][mydiabetes]</b> & <b>[WakeOnLan][wol]</b>.\
+🔧 &nbsp;I'm working on my portfolio: <b>[WakeOnLan][wol]✅</b> & <b>[myDiabetes][mydiabetes]</b>.\
 🥅 &nbsp;2020 Goals: Switch to Kotlin.
 
 ### 🛠 &nbsp;Tech Stack
@@ -37,8 +37,8 @@
 ### 💕 &nbsp;Portfolio
 
 <p align="center">
-  <a alt="myDiabetes" href="https://github.com/piekarskipiotr/MyDiabetes2"><img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=MyDiabetes2&theme=tokyonight"/></a>
   <a alt="WakeOnLAN" href="https://github.com/piekarskipiotr/WakeOnLAN"><img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=WakeOnLAN&theme=tokyonight"/></a>
+  <a alt="myDiabetes" href="https://github.com/piekarskipiotr/MyDiabetes2"><img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=MyDiabetes2&theme=tokyonight"/></a>  
 </p>
 
 
