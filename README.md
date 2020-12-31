@@ -23,7 +23,6 @@
 ![ML Kit](https://img.shields.io/badge/ML%20Kit-125AB8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAALCAMAAAB4W0xQAAAA7VBMVEUAAAAAAAEAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAEAAAESEhIADRoHDyUABxsACxwACxwACh8ADyMZIjYJGjk0NDw2Oz8UKEQTJkELIEUAECwcK0UULlYCH08AHk8GJFMZQIIEIVJEX4pwhJwQOHcvWqMRPYYsWaKDlK4BK2t+k7EQO38nWKsxX6x4j7F8kK8uXapDY5I9arSInbsrXrZDbbBVdaKBmrwpWqqBnMMsZsg4cMsxbM4eU62lvuCivOE0d+ayzfZOhNmMufZloPh8tv43fug9g/hJkf9Llf9pnuhqpv92pOmbz/6kyv2FijXBAAAARnRSTlMAAAEBAgMEBAUHCg4UIyctLjE0NDs7PT9DR1BTWXt+h4eKjp2jpKanqayusLCxsbGytrm5vb6/wMHG0dLV3+Lk8PL3+Pn77h5oqgAAAIFJREFUCFs1hzUSAzAQxHYdX5iZmZmZmf//nBSeqJBGgEHRlNQq2HAik6UQIAWTt8v9nFIAUBB+HST/qZvVHJ93of2pRwEgiN+K2+GyO6OA0Fy1I997orSwOawWIPbwRC9rNkcECb2ZI3VNq8GxUiv7oHN+5S3Ykax2+q0AABL8+weuAwxhwnwcYwAAAABJRU5ErkJggg==)&nbsp;
 ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-<br>
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=181A1B)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
