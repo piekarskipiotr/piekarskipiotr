@@ -10,7 +10,7 @@
 🎓 &nbsp;I'm currently studying Computer Science at <b>[Collegium Da Vinci][cdv]</b>.\
 🎮 &nbsp;In my free time, I like to play games and watch anime.\
 🔧 &nbsp;I'm working on my portfolio: <b>[WakeOnLan][wol]✅</b> & <b>[myDiabetes][mydiabetes]</b>.\
-🥅 &nbsp;2020 Goals: Switch to Kotlin.
+🥅 &nbsp;2021 Goals: Master Kotlin.
 
 ### 🛠 &nbsp;Tech Stack
 
