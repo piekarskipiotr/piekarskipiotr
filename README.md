@@ -7,9 +7,9 @@
 👾 &nbsp;Mainly I'm coding a Android applications.\
 🏊‍♂️ &nbsp;I love swimming!\
 🐼 &nbsp;lazy.\
-🎓 &nbsp;I'm currently studying Computer Science at <b>[Collegium Da Vinci][cdv]</b>.\
+🎓 &nbsp;I'm studying Computer Science at <b>[Collegium Da Vinci][cdv]</b>.\
 🎮 &nbsp;In my free time, I like to play games and watch anime.\
-🔧 &nbsp;I'm working on my portfolio: <b>[WakeOnLan][wol]✅</b> & <b>[MyDiabetes][mydiabetes]</b>.\
+🔧 &nbsp;I'm currently working on my portfolio: <b>[WakeOnLan][wol]✅</b> & <b>[MyDiabetes][mydiabetes]</b>.\
 🥅 &nbsp;2021 Goals: Master Kotlin.
 
 ### 🛠 &nbsp;Tech Stack
