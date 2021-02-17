@@ -1,4 +1,4 @@
-# <img alt="wave hand" src="https://github.com/piekarskipiotr/piekarskipiotr/blob/main/assets/wave_hand.gif" width="35px"/> Hey there! I'm Peter
+# <img alt="wave hand" src="https://github.com/piekarskipiotr/piekarskipiotr/blob/main/assets/wave_hand.gif" width="30px"/>&nbsp;Hey there! I'm Peter
 
 <img alt="lofi" src="https://github.com/piekarskipiotr/piekarskipiotr/blob/main/assets/tumblr_oezv38ikwg1sznfdio1_500.gif" align="right"/>
 
