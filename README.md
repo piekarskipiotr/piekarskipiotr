@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Peter
+# <img alt="wave hand" src="https://github.com/piekarskipiotr/piekarskipiotr/blob/main/assets/wave_hand.gif" width="35px"/> Hey there! I'm Peter
 
 <img alt="lofi" src="https://github.com/piekarskipiotr/piekarskipiotr/blob/main/assets/tumblr_oezv38ikwg1sznfdio1_500.gif" align="right"/>
 
@@ -6,7 +6,7 @@
 
 👾 &nbsp;Mainly I'm coding a Android applications.\
 🏊‍♂️ &nbsp;I love swimming!\
-🐼 &nbsp;lazy.\
+🐼 &nbsp;lazy\
 🎓 &nbsp;I'm studying Computer Science at <b>[Collegium Da Vinci][cdv]</b>.\
 🎮 &nbsp;In my free time, I like to play games and watch anime.\
 🔧 &nbsp;I'm currently working on my portfolio: <b>[WakeOnLan][wol]✅</b> & <b>[MyDiabetes][mydiabetes]</b>.\
