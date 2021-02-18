@@ -9,7 +9,7 @@
 🐼 &nbsp;lazy\
 🎓 &nbsp;I'm studying Computer Science at <b>[Collegium Da Vinci][cdv]</b>.\
 🎮 &nbsp;In my free time, I like to play games and watch anime.\
-🔧 &nbsp;I'm currently working on my portfolio: <b>[WakeOnLan][wol]✅</b> & <b>[MyDiabetes][mydiabetes]</b>.\
+🔧 &nbsp;I'm currently working on my portfolio: <b>[WakeOnLan][wol]✅</b> & <b>[MyDiabetes][mydiabetes]</b>.
 
 ### 🛠 &nbsp;Tech Stack
 
