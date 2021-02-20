@@ -33,8 +33,8 @@
 ### 💕 &nbsp;Portfolio
 
 <p align="center">
-  <a alt="WakeOnLAN" href="https://github.com/piekarskipiotr/wake-on-lan"><img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=WakeOnLAN&theme=tokyonight"/></a>
-  <a alt="myDiabetes" href="https://github.com/piekarskipiotr/mydiabetes"><img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=MyDiabetes2&theme=tokyonight"/></a>  
+  <a alt="WakeOnLAN" href="https://github.com/piekarskipiotr/wake-on-lan"><img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=wake-on-lan&theme=tokyonight"/></a>
+  <a alt="myDiabetes" href="https://github.com/piekarskipiotr/mydiabetes"><img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=mydiabetes&theme=tokyonight"/></a>  
 </p>
 
 
