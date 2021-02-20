@@ -1,15 +1,10 @@
-# <img alt="wave hand" src="https://github.com/piekarskipiotr/piekarskipiotr/blob/main/assets/wave_hand.gif" width="30px"/>&nbsp;Hey there! I'm Peter
+# <img alt="wave hand" src="https://github.com/piekarskipiotr/piekarskipiotr/blob/main/assets/wave_hand.gif" width="30px"/>&nbsp;Self learning Android developer, yup that's me!
 
 <img alt="lofi" src="https://github.com/piekarskipiotr/piekarskipiotr/blob/main/assets/tumblr_oezv38ikwg1sznfdio1_500.gif" align="right"/>
 
 ### 🐱‍💻 &nbsp;About me
 
-👾 &nbsp;Mainly I'm coding a Android applications.\
-🏊‍♂️ &nbsp;I love swimming!\
-🐼 &nbsp;lazy\
-🎓 &nbsp;I'm studying Computer Science at <b>[Collegium Da Vinci][cdv]</b>.\
-🎮 &nbsp;In my free time, I like to play games and watch anime.\
-🔧 &nbsp;I'm currently working on <b>[MyDiabetes][mydiabetes]</b>.
+As you may have noticed, my name is Piotr, I mainly create android applications, but I'm not limited to that only. On weekends I study computer science at <b>[Collegium Da Vinci][cdv]</b>. When I'm not programming, I like to go swimming or play chess.
 
 ### 🛠 &nbsp;Tech Stack
 
