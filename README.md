@@ -4,7 +4,8 @@
 
 ### 🐱‍💻 &nbsp;About me
 
-As you may have noticed, my name is Piotr, I mainly create android applications, but I'm not limited to that only. On weekends I study computer science at <b>[Collegium Da Vinci][cdv]</b>. When I'm not programming, I like to go swimming or play chess.
+As you may have noticed, my name is Piotr. <br>I mainly create android applications, but I'm not limited to that only. 
+On weekends I study computer science at <b>[Collegium Da Vinci][cdv]</b>. 
 <br>
 <br>
 <br>
