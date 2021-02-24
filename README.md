@@ -28,7 +28,7 @@ On weekends I study computer science at <b>[Collegium Da Vinci][cdv]</b>. If I'm
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&l&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 ### 💕 &nbsp;Portfolio
 
