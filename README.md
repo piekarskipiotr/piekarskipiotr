@@ -49,7 +49,7 @@ On weekends I study computer science at <b>[Collegium Da Vinci][cdv]</b>. If I'm
 <p align="center">
   <a href="https://www.linkedin.com/in/piekarskipiotr/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&amp;style=flat-square"/></a>
   <a href="https://www.instagram.com/piekarskiski/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&amp;style=flat-square"/></a>
-   <img alt="discord" src="https://img.shields.io/badge/Discord%3A%20xazai%237777-7289DA?logo=discord&logoColor=white&amp;style=flat-square"/>
+   <img alt="discord" src="https://img.shields.io/badge/Discord%3A%20xazai%232853-7289DA?logo=discord&logoColor=white&amp;style=flat-square"/>
   <a href="https://twitter.com/xazai_"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&amp;style=flat-square"/></a>
 </p>
 
