@@ -61,7 +61,7 @@
     <a href="https://github.com/piekarskipiotr/wake-on-lan"><b>wake-on-lan</b></a> is application that uses <i> Wake on LAN </i> technology, which allows you to start computers using the so-called <i> magic packages </i>. Thanks to the application you can track the current status of computers (<i> on / off </i>), create groups and enable all devices in a group to be started with one button. [<a href="https://github.com/piekarskipiotr/wake-on-lan">Show project</a>]
   </p>
   
-  <br><br>
+  <br><br><br>
 
   <p>
       Built with:<br> 
@@ -82,7 +82,7 @@
      <a href="https://github.com/piekarskipiotr/mydiabetes"><b>mydiabetes</b></a> is project that provide diabetics with faster counting of products and finding them, it will allow you to forget about searching a notebook with stored products and save us from mistakes in calculations. Applications allows you to calculate products by 2 methods, searching products by barcode, creating meals by adding products to <i>food plate</i> and share your data with others users. [<a href="https://github.com/piekarskipiotr/mydiabetes">Show project</a>]
   </p>
   
-  <br>
+  <br><br>
 
   <p>
       Built with:<br> 
@@ -105,7 +105,7 @@
     <a href="https://github.com/piekarskipiotr/pomodoro-timer"><b>pomodoro-timer</b></a> is a time management application based on Pomodoro Technique developed by Francesco Cirillo in the late 1980s. The application allows you to create several minutes long sessions with breaks, the user profile contains graphs regarding activity and successes in the application, you can record your own alarm or choose one from 2 availables. [<a href="https://github.com/piekarskipiotr/pomodoro-timer">Show project</a>]
   </p>
   
-  <br>
+  <br><br>
 
   <p>
       Built with:<br> 
@@ -115,8 +115,6 @@
   </p>
 
 </p>
-
-<br>
 
 <h4 align="center">More projects</h4>
 <p align="center">
