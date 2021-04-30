@@ -2,8 +2,7 @@
 
 <!-- Header Text -->
 <h3 align="center">
-  Hi! I'm Piotr Piekarski &nbsp; 
-  <img alt="wave hand" src="https://github.com/piekarskipiotr/piekarskipiotr/blob/main/assets/wave_hand.gif" width="30px" />
+  Hi! I'm Piotr Piekarski
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://git.io/typing-svg -->
