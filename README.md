@@ -1,72 +1,211 @@
-# <img alt="wave hand" src="https://github.com/piekarskipiotr/piekarskipiotr/blob/main/assets/wave_hand.gif" width="30px"/>&nbsp;Self learning Android developer, yup that's me!
+<!-- Readme inspired by https://github.com/DenverCoder1 -->
 
-<img alt="lofi" src="https://github.com/piekarskipiotr/piekarskipiotr/blob/main/assets/tumblr_oezv38ikwg1sznfdio1_500.gif" align="right"/>
+<!-- Header Text -->
+<h3 align="center">
+  Hi! I'm Piotr Piekarski &nbsp; 
+  <img alt="wave hand" src="https://github.com/piekarskipiotr/piekarskipiotr/blob/main/assets/wave_hand.gif" width="30px" />
+</h3>
 
-### 🐱‍💻 &nbsp;About me
+<!-- Typing SVG by DenverCoder1 - https://git.io/typing-svg -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=5C57E4&center=true&lines=Android+Developer;Computer+Science+Student;Self-taught+Programmer;Swimming+Lover">
+</h3>
 
-As you may have noticed, my name is Piotr. <br>I mainly create android applications, but I'm not limited to that only. 
-On weekends I study computer science at <b>[Collegium Da Vinci][cdv]</b>. If I'm not programming, I'm probably asleep.
-<br>My personality is a combination of laziness and workaholic (what?).
-<br>
-<br>
-<br>
-
-### 🛠 &nbsp;Tech Stack
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-![Android](https://img.shields.io/badge/Android-brightgreen?style=for-the-badge&logo=android&logoColor=white)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=181A1B)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&l&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-### 💕 &nbsp;Portfolio
-
+<!-- Contact section -->
 <p align="center">
-  <a alt="WakeOnLAN" href="https://github.com/piekarskipiotr/wake-on-lan"><img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=wake-on-lan&theme=tokyonight"/></a>
-  <a alt="myDiabetes" href="https://github.com/piekarskipiotr/mydiabetes"><img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=piekarskipiotr&repo=mydiabetes&theme=tokyonight"/></a>  
+  <a href="https://www.linkedin.com/in/piekarskipiotr/">
+    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&amp;style=for-the-badge"/>
+  </a>
+   <a href="https://discord.com/">
+    <img alt="discord" src="https://img.shields.io/badge/xazai%232853-7289DA?logo=discord&logoColor=white&amp;style=for-the-badge"/>
+  </a>
+  <a href="https://twitter.com/xazai_">
+    <img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&amp;style=for-the-badge"/>
+  </a>
+  <a href="https://www.instagram.com/piekarskiski/">
+    <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&amp;style=for-the-badge"/>
+  </a>
+</p>
+<!--end:Contact section-->
+
+<!-- About me section -->
+## 🐱‍👓 About me
+<p>
+  <img src="assets\digimon_computer.gif" alt="anime-gif" align="right" width="420px"/>
+  <p>
+    I am a graduate of an IT technical school that is currently creating its own projects, learning new technologies and studying computer science at 
+    <a href="https://cdv.pl/"> <b>Collegium Da Vinci</b> </a> on weekends.
+  </p>
+
+  <p>
+    Programming is my passion, I am focusing on programming mobile applications for android os, but in the future I will be happy to learn multiplatform programming, web and AI stuff. My other goal is to make a game🕹 (<i>I already have an idea for it but for now I'm focusing on other things</i>). In addition to IT, I like to go swimming or watch a good movie/tv series.
+  </p>
+
+  <p>
+    You can write to me on one of the above communicators or if you want to talk about collaborate/work, please contact me at: ✉
+    <a href="mailto:ppiekarski8@gmail.com"> 
+      <b>ppiekarski8@gmail.com</b> 
+    </a>
+  </p>
+</p>
+<!--end:About me section-->
+
+<!-- Projects section -->
+## 🚀 Projects
+
+<p>
+  <a href="https://github.com/piekarskipiotr/wake-on-lan">
+    <img src="assets/wol.png" align="left"/> 
+  </a>
+  <p>
+    <a href="https://github.com/piekarskipiotr/wake-on-lan"><b>wake-on-lan</b></a> is application that uses <i> Wake on LAN </i> technology, which allows you to start computers using the so-called <i> magic packages </i>. Thanks to the application you can track the current status of computers (<i> on / off </i>), create groups and enable all devices in a group to be started with one button. [<a href="https://github.com/piekarskipiotr/wake-on-lan">Show project</a>]
+  </p>
+  
+  <br><br>
+
+  <p>
+      Built with:<br> 
+      <img src="https://img.shields.io/badge/Android-brightgreen?style=flat&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/XML-0C54C2?style=flat&logo=xaml&logoColor=white"/>
+  </p>
+
 </p>
 
+<hr>
 
+<p>
+  <a href="https://github.com/piekarskipiotr/mydiabetes">
+    <img src="assets/mydiabetes.png" align="right"/> 
+  </a>
+  <p>
+     <a href="https://github.com/piekarskipiotr/mydiabetes"><b>mydiabetes</b></a> is project that provide diabetics with faster counting of products and finding them, it will allow you to forget about searching a notebook with stored products and save us from mistakes in calculations. Applications allows you to calculate products by 2 methods, searching products by barcode, creating meals by adding products to <i>food plate</i> and share your data with others users. [<a href="https://github.com/piekarskipiotr/mydiabetes">Show project</a>]
+  </p>
+  
+  <br>
 
-<!--for future
-### ⚙️ &nbsp;GitHub Statistics
-<p align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=piekarskipiotr&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piekarskipiotr&theme=tokyonight"/>
+  <p>
+      Built with:<br> 
+      <img src="https://img.shields.io/badge/Android-brightgreen?style=flat&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/XML-0C54C2?style=flat&logo=xaml&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Material%20Design-757575?style=flat&logo=material-design&logoColor=white"/>
+  </p>
+
 </p>
--->
 
-### 🤝🏻 &nbsp;Get in touch
-<p align="center">
-  <a href="https://www.linkedin.com/in/piekarskipiotr/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&amp;style=flat-square"/></a>
-  <a href="https://www.instagram.com/piekarskiski/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&amp;style=flat-square"/></a>
-   <img alt="discord" src="https://img.shields.io/badge/Discord%3A%20xazai%232853-7289DA?logo=discord&logoColor=white&amp;style=flat-square"/>
-  <a href="https://twitter.com/xazai_"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&amp;style=flat-square"/></a>
+<hr>
+
+<p>
+  <a href="https://github.com/piekarskipiotr/pomodoro-timer">
+    <img src="assets/pomodoro.png" align="left"/> 
+  </a>
+  <p>
+    <a href="https://github.com/piekarskipiotr/pomodoro-timer"><b>pomodoro-timer</b></a> is a time management application based on Pomodoro Technique developed by Francesco Cirillo in the late 1980s. The application allows you to create several minutes long sessions with breaks, the user profile contains graphs regarding activity and successes in the application, you can record your own alarm or choose one from 2 availables. [<a href="https://github.com/piekarskipiotr/pomodoro-timer">Show project</a>]
+  </p>
+  
+  <br>
+
+  <p>
+      Built with:<br> 
+      <img src="https://img.shields.io/badge/Android-brightgreen?style=flat&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/XML-0C54C2?style=flat&logo=xaml&logoColor=white"/>
+  </p>
+
 </p>
 
-<p align="center">•</p>
+<br>
+
+<h4 align="center">More projects</h4>
+<p align="center">
+  <a href="https://github.com/piekarskipiotr?tab=repositories&q=Android">👉🏻Android</a> 
+  <a href="https://github.com/piekarskipiotr?tab=repositories">👉🏻All</a>
+</p>
  
+<!--end:Projects section-->
+
+
+<!-- Tech stack section -->
+## 🐱‍💻 Things I code with and more
+
+#### 👾 Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=flat&logo=c&logoColor=white")
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&l&logoColor=white)
+![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=181A1B)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=fflat&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![XML](https://img.shields.io/badge/XML-0C54C2?style=flat&logo=xaml&logoColor=white)
+
+#### 💻 Others 
+![ASP.NET](https://img.shields.io/badge/ASP.NET-7719AA?style=flat&logo=microsoft&logoColor=white)
+![Android](https://img.shields.io/badge/Android-brightgreen?style=flat&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=flat&logo=material-design&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Brave](https://img.shields.io/badge/-Brave-FB542B?style=flat&logo=brave&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<!--end:Tech stack section-->
+
+<!-- User stats section -->
+## ⚙️ GitHub Statistics
+
+<!-- https://github.com/anuraghazra/github-readme-stats#themes -->
+<p align="center">
+<details> 
+  <summary>🐱‍🏍 Languages usage in projects and weekly coding time</summary>
+  <br>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piekarskipiotr&layout=compact&theme=dracula&hide_border=true&title_color=5c57e4&text_color=F5F5F5&bg_color=11111E" height="160em"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=piekarskipiotr&theme=dracula&hide_border=true&title_color=5c57e4&text_color=F5F5F5&bg_color=11111E" height="160em"/>
+  </div>
+</details>
+</p>
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<p>
+  <details>
+    <summary>🦈 Recent activity on GitHub</summary>
+    <br/>
+  <!--START_SECTION:activity-->
+
+  <!--END_SECTION:activity-->
+  </details>
+</p>
+<!--end:User stats section-->
+
+<br>
+<br>
+
+<!-- Little footer ninja cat d-_-b section -->
+<p align="center">🐱‍👤</p>
+<!--end:footer-->
  
+<!--links-->
 
+  <!--my university-->
+  [cdv]: https://cdv.pl/
 
-[cdv]: https://cdv.pl/
-[mydiabetes]: https://github.com/piekarskipiotr/MyDiabetes2
-[wol]: https://github.com/piekarskipiotr/WakeOnLAN
-[linkedin]: https://www.linkedin.com/in/piekarskipiotr/
-[gmail]: mailto:ppiekarski8@gmail.com
-[messenger]: http://m.me/piekarskiski
-[instagram]: https://www.instagram.com/piekarskiski/
-[twitter]: https://twitter.com/xazai_
-[discord]: xazai#4237
+  <!--projects-->
+  [mydiabetes]: https://github.com/piekarskipiotr/MyDiabetes
+  [wol]: https://github.com/piekarskipiotr/WakeOnLAN
+  [pomodoro]: https://github.com/piekarskipiotr/pomodoro-timer
 
+  <!--socials and contact-->
+  [linkedin]: https://www.linkedin.com/in/piekarskipiotr/
+  [discord]: xazai#2853
+  [twitter]: https://twitter.com/xazai_
+  [instagram]: https://www.instagram.com/piekarskiski/
+  [gmail]: mailto:ppiekarski8@gmail.com
 
+<!--end:links-->
