@@ -89,7 +89,6 @@
       <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/> 
       <img src="https://img.shields.io/badge/XML-0C54C2?style=flat&logo=xaml&logoColor=white"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Material%20Design-757575?style=flat&logo=material-design&logoColor=white"/>
   </p>
 
 </p>
