@@ -163,6 +163,7 @@
 <details> 
   <summary>🐱‍🏍 Profile stats and languages usage </summary>
   <br>
+  
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=piekarskipiotr&theme=dracula&hide_border=true&title_color=5c57e4&text_color=F5F5F5&bg_color=11111E&custom_title=Profile%20Stats" height="160em"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piekarskipiotr&layout=compact&theme=dracula&hide_border=true&title_color=5c57e4&text_color=F5F5F5&bg_color=11111E" height="160em"/>
@@ -170,36 +171,22 @@
 </details>
 </p>
 
-<p align="center">
 <details> 
   <summary>🕔 Time stats </summary>
   <br>
-  <div align="center">
-    <!--START_SECTION:waka-->
-```text
-Markdown   4 hrs 37 mins   ██████████████████████░░░   87.95 % 
-Kotlin     34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-YAML       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-```
-<!--END_SECTION:waka-->
-  </div>
+  
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </details>
-</p>
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<p>
-  <details>
-    <summary>🦈 Recent activity on GitHub</summary>
-    <br>
+<details>
+  <summary>🦈 Recent activity on GitHub</summary>
+  <br>
+  
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/piekarskipiotr/pomodoro-timer/pull/2) in [piekarskipiotr/pomodoro-timer](https://github.com/piekarskipiotr/pomodoro-timer)
-2. 💪 Opened PR [#2](https://github.com/piekarskipiotr/pomodoro-timer/pull/2) in [piekarskipiotr/pomodoro-timer](https://github.com/piekarskipiotr/pomodoro-timer)
-3. 🎉 Merged PR [#1](https://github.com/piekarskipiotr/pomodoro-timer/pull/1) in [piekarskipiotr/pomodoro-timer](https://github.com/piekarskipiotr/pomodoro-timer)
-4. 💪 Opened PR [#1](https://github.com/piekarskipiotr/pomodoro-timer/pull/1) in [piekarskipiotr/pomodoro-timer](https://github.com/piekarskipiotr/pomodoro-timer)
-5. ❗️ Opened issue [#12781](https://github.com/timburgan/timburgan/issues/12781) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
   <!--END_SECTION:activity-->
-  </details>
-</p>
+</details>
 <!--end:User stats section-->
 
 <br>
