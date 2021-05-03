@@ -11,6 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: piekarskipiotr/piekarskipiotr@master
+      - uses: piekarskipiotr/piekarskipiotr@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
