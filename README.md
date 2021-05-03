@@ -156,16 +156,27 @@
 <!--end:Tech stack section-->
 
 <!-- User stats section -->
-## ⚙️ GitHub Statistics
+## ⚙️ Statistics
 
 <!-- https://github.com/anuraghazra/github-readme-stats#themes -->
 <p align="center">
 <details> 
-  <summary>🐱‍🏍 Languages usage in projects and weekly coding time</summary>
+  <summary>🐱‍🏍 Profile stats and languages usage </summary>
   <br>
   <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=piekarskipiotr&theme=dracula&hide_border=true&title_color=5c57e4&text_color=F5F5F5&bg_color=11111E&custom_title=Profile%20Stats" height="160em"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piekarskipiotr&layout=compact&theme=dracula&hide_border=true&title_color=5c57e4&text_color=F5F5F5&bg_color=11111E" height="160em"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=piekarskipiotr&theme=dracula&hide_border=true&title_color=5c57e4&text_color=F5F5F5&bg_color=11111E" height="160em"/>
+  </div>
+</details>
+</p>
+
+<p align="center">
+<details> 
+  <summary>🕔 Time stats </summary>
+  <br>
+  <div align="center">
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
   </div>
 </details>
 </p>
@@ -174,9 +185,8 @@
 <p>
   <details>
     <summary>🦈 Recent activity on GitHub</summary>
-    <br/>
+    <br>
   <!--START_SECTION:activity-->
-
   <!--END_SECTION:activity-->
   </details>
 </p>
