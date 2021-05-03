@@ -176,7 +176,12 @@
   <br>
   
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+```text
+Markdown   4 hrs 37 mins   ██████████████████████░░░   87.95 % 
+Kotlin     34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+YAML       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+```
+<!--END_SECTION:waka-->
 </details>
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
