@@ -57,7 +57,7 @@
     <img src="assets/wol.png" align="left"/> 
   </a>
   <p>
-    <a href="https://github.com/piekarskipiotr/wake-on-lan"><b>wake-on-lan</b></a> is application that uses <i> Wake on LAN </i> technology, which allows you to start computers using the so-called <i> magic packages </i>. Thanks to the application you can track the current status of computers (<i> on / off </i>), create groups and enable all devices in a group to be started with one button. [<a href="https://github.com/piekarskipiotr/wake-on-lan">Show project</a>]
+    <a href="https://github.com/piekarskipiotr/wake-on-lan"><b>wake-on-lan</b></a> is application that uses <i> Wake on LAN </i> technology, which allows you to start computers using the so-called <i>magic packages</i>. Thanks to the application you can track the current status of computers (<i>on / off</i>), create groups and enable all devices in a group to be started with one button. [<a href="https://github.com/piekarskipiotr/wake-on-lan">Show project</a>]
   </p>
   
   <br><br><br><br>
@@ -115,12 +115,13 @@
 </p>
 
 <br>
-
+<div align="center">
 <h4 align="center">More projects</h4>
 <p align="center">
   <a href="https://github.com/piekarskipiotr?tab=repositories&q=Android">👉🏻Android</a> 
   <a href="https://github.com/piekarskipiotr?tab=repositories">👉🏻All</a>
 </p>
+</div>
  
 <!--end:Projects section-->
 
