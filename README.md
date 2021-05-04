@@ -158,31 +158,19 @@
 <!-- User stats section -->
 ## ⚙️ Statistics
 
-<!-- https://github.com/anuraghazra/github-readme-stats#themes -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <details> 
-  <summary>🐱‍🏍 Profile stats and languages usage </summary>
+  <summary>🐱‍🏍 GitHub stats and time machine</summary>
   <br>
   
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=piekarskipiotr&theme=dracula&hide_border=true&title_color=5c57e4&text_color=F5F5F5&bg_color=11111E&custom_title=Profile%20Stats" height="160em"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piekarskipiotr&layout=compact&theme=dracula&hide_border=true&title_color=5c57e4&text_color=F5F5F5&bg_color=11111E" height="160em"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=piekarskipiotr&layout=compact&theme=dracula&hide_border=true&title_color=5c57e4&text_color=F5F5F5&bg_color=11111E&custom_title=Time%20machine" height="160em"/>
   </div>
 </details>
 </p>
-
-<details> 
-  <summary>🕔 Time stats </summary>
-  <br>
-  
-  <!--START_SECTION:waka-->
-```text
-Markdown   4 hrs 37 mins   ██████████████████████░░░   87.95 % 
-Kotlin     34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-YAML       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-```
-<!--END_SECTION:waka-->
-</details>
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
