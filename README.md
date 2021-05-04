@@ -197,18 +197,18 @@
 <!--links-->
 
   <!--my university-->
-  [cdv]: https://cdv.pl/
+  <!--[cdv]: https://cdv.pl/-->
 
   <!--projects-->
-  [mydiabetes]: https://github.com/piekarskipiotr/MyDiabetes
-  [wol]: https://github.com/piekarskipiotr/WakeOnLAN
-  [pomodoro]: https://github.com/piekarskipiotr/pomodoro-timer
+  <!--[mydiabetes]: https://github.com/piekarskipiotr/MyDiabetes-->
+  <!--[wol]: https://github.com/piekarskipiotr/WakeOnLAN-->
+  <!--[pomodoro]: https://github.com/piekarskipiotr/pomodoro-timer-->
 
   <!--socials and contact-->
-  [linkedin]: https://www.linkedin.com/in/piekarskipiotr/
-  [discord]: xazai#2853
-  [twitter]: https://twitter.com/xazai_
-  [instagram]: https://www.instagram.com/piekarskiski/
-  [gmail]: mailto:ppiekarski8@gmail.com
+  <!--[linkedin]: https://www.linkedin.com/in/piekarskipiotr/-->
+  <!--[discord]: xazai#2853-->
+  <!--[twitter]: https://twitter.com/xazai_-->
+  <!--[instagram]: https://www.instagram.com/piekarskiski/-->
+  <!--[gmail]: mailto:ppiekarski8@gmail.com-->
 
 <!--end:links-->
