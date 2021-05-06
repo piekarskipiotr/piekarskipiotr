@@ -179,11 +179,11 @@
   <br>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/piekarskipiotr/pomodoro-timer/pull/2) in [piekarskipiotr/pomodoro-timer](https://github.com/piekarskipiotr/pomodoro-timer)
-2. 💪 Opened PR [#2](https://github.com/piekarskipiotr/pomodoro-timer/pull/2) in [piekarskipiotr/pomodoro-timer](https://github.com/piekarskipiotr/pomodoro-timer)
-3. 🎉 Merged PR [#1](https://github.com/piekarskipiotr/pomodoro-timer/pull/1) in [piekarskipiotr/pomodoro-timer](https://github.com/piekarskipiotr/pomodoro-timer)
-4. 💪 Opened PR [#1](https://github.com/piekarskipiotr/pomodoro-timer/pull/1) in [piekarskipiotr/pomodoro-timer](https://github.com/piekarskipiotr/pomodoro-timer)
-5. ❗️ Opened issue [#12781](https://github.com/timburgan/timburgan/issues/12781) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. 🎉 Merged PR [#1](https://github.com/piekarskipiotr/shopping-list-app/pull/1) in [piekarskipiotr/shopping-list-app](https://github.com/piekarskipiotr/shopping-list-app)
+2. 💪 Opened PR [#1](https://github.com/piekarskipiotr/shopping-list-app/pull/1) in [piekarskipiotr/shopping-list-app](https://github.com/piekarskipiotr/shopping-list-app)
+3. 🎉 Merged PR [#2](https://github.com/piekarskipiotr/pomodoro-timer/pull/2) in [piekarskipiotr/pomodoro-timer](https://github.com/piekarskipiotr/pomodoro-timer)
+4. 💪 Opened PR [#2](https://github.com/piekarskipiotr/pomodoro-timer/pull/2) in [piekarskipiotr/pomodoro-timer](https://github.com/piekarskipiotr/pomodoro-timer)
+5. 🎉 Merged PR [#1](https://github.com/piekarskipiotr/pomodoro-timer/pull/1) in [piekarskipiotr/pomodoro-timer](https://github.com/piekarskipiotr/pomodoro-timer)
   <!--END_SECTION:activity-->
 </details>
 <!--end:User stats section-->
