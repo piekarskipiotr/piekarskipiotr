@@ -51,7 +51,7 @@
 
 <!-- Projects section -->
 ## 🚀 Projects
-
+<br>
 <p>
   <a href="https://github.com/piekarskipiotr/wake-on-lan">
     <img src="assets/wol.png" align="left"/> 
@@ -65,11 +65,11 @@
       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> 
       <img src="https://img.shields.io/badge/XML-0C54C2?style=flat&logo=xaml&logoColor=white"/>
   </p>
-<br><br><br>
+<br><br><br><br>
 </p>
 
 ##
-
+<br>
 <p>
   <a href="https://github.com/piekarskipiotr/mydiabetes">
     <img src="assets/mydiabetes.png" align="right"/> 
@@ -84,11 +84,11 @@
       <img src="https://img.shields.io/badge/XML-0C54C2?style=flat&logo=xaml&logoColor=white"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
   </p>
-<br><br>
+<br><br><br>
 </p>
 
 ##
-
+<br>
 <p>
   <a href="https://github.com/piekarskipiotr/pomodoro-timer">
     <img src="assets/pomodoro.png" align="left"/> 
@@ -102,7 +102,7 @@
       <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/> 
       <img src="https://img.shields.io/badge/XML-0C54C2?style=flat&logo=xaml&logoColor=white"/>
   </p>
-  <br>
+  <br><br>
 </p>
 
 <br>
