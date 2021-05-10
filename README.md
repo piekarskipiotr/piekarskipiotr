@@ -32,12 +32,12 @@
 <p>
   <img src="assets\digimon_computer.gif" alt="anime-gif" align="right" width="420px"/>
   <p>
-    I am a graduate of an IT technical school that is currently creating its own projects, learning new technologies and studying computer science at 
+    I'm a graduate of an IT technical school that is currently creating its own projects, learning new technologies and studying computer science at 
     <a href="https://cdv.pl/"> <b>Collegium Da Vinci</b> </a> on weekends.
   </p>
 
   <p>
-    Programming is my passion, I am focusing on programming mobile applications for android os, but in the future I will be happy to learn multiplatform programming, web and AI stuff. My other goal is to make a game🕹 (<i>I already have an idea for it but for now I'm focusing on other things</i>). In addition to IT, I like to go swimming or watch a good movie/tv series.
+    Programming is my passion, I'm focusing on programming mobile applications for android os, but in the future I will be happy to learn multiplatform programming, web and AI stuff. My other goal is to make a game🕹 (<i>I already have an idea for it but for now I'm focusing on other things</i>). In addition to IT, I like to go swimming or watch a good movie/tv series.
   </p>
 
   <p>
@@ -59,19 +59,16 @@
   <p>
     <a href="https://github.com/piekarskipiotr/wake-on-lan"><b>wake-on-lan</b></a> is application that uses <i> Wake on LAN </i> technology, which allows you to start computers using the so-called <i>magic packages</i>. Thanks to the application you can track the current status of computers (<i>on / off</i>), create groups and enable all devices in a group to be started with one button. [<a href="https://github.com/piekarskipiotr/wake-on-lan">Show project</a>]
   </p>
-  
-  <br><br><br><br>
-
   <p>
       Built with:<br> 
       <img src="https://img.shields.io/badge/Android-brightgreen?style=flat&logo=android&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> 
       <img src="https://img.shields.io/badge/XML-0C54C2?style=flat&logo=xaml&logoColor=white"/>
   </p>
-
+<br><br><br>
 </p>
 
-<hr>
+##
 
 <p>
   <a href="https://github.com/piekarskipiotr/mydiabetes">
@@ -80,9 +77,6 @@
   <p>
      <a href="https://github.com/piekarskipiotr/mydiabetes"><b>mydiabetes</b></a> is project that provide diabetics with faster counting of products and finding them, it will allow you to forget about searching a notebook with stored products and save us from mistakes in calculations. Applications allows you to calculate products by 2 methods, searching products by barcode, creating meals by adding products to <i>food plate</i> and share your data with others users. [<a href="https://github.com/piekarskipiotr/mydiabetes">Show project</a>]
   </p>
-  
-  <br><br>
-
   <p>
       Built with:<br> 
       <img src="https://img.shields.io/badge/Android-brightgreen?style=flat&logo=android&logoColor=white"/>
@@ -90,10 +84,10 @@
       <img src="https://img.shields.io/badge/XML-0C54C2?style=flat&logo=xaml&logoColor=white"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
   </p>
-
+<br><br>
 </p>
 
-<hr>
+##
 
 <p>
   <a href="https://github.com/piekarskipiotr/pomodoro-timer">
@@ -102,16 +96,13 @@
   <p>
     <a href="https://github.com/piekarskipiotr/pomodoro-timer"><b>pomodoro-timer</b></a> is a time management application based on Pomodoro Technique developed by Francesco Cirillo in the late 1980s. The application allows you to create several minutes long sessions with breaks, the user profile contains graphs regarding activity and successes in the application, you can record your own alarm or choose one from 2 availables. [<a href="https://github.com/piekarskipiotr/pomodoro-timer">Show project</a>]
   </p>
-  
-  <br><br>
-
   <p>
       Built with:<br> 
       <img src="https://img.shields.io/badge/Android-brightgreen?style=flat&logo=android&logoColor=white"/>
       <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/> 
       <img src="https://img.shields.io/badge/XML-0C54C2?style=flat&logo=xaml&logoColor=white"/>
   </p>
-
+  <br>
 </p>
 
 <br>
