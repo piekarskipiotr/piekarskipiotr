@@ -33,7 +33,7 @@
   <img src="assets\digimon_computer.gif" alt="anime-gif" align="right" width="420px"/>
   <p>
     I'm a graduate of an IT technical school that is currently creating its own projects, learning new technologies and studying computer science at 
-    <a href="https://cdv.pl/"> <b>Collegium Da Vinci</b> </a> on weekends.
+    <a href="https://cdv.pl/"><b>Collegium Da Vinci</b></a>.
   </p>
 
   <p>
