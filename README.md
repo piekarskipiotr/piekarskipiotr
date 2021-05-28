@@ -90,11 +90,11 @@
 ##
 <br>
 <p>
-  <a href="https://github.com/piekarskipiotr/pomodoro-timer">
-    <img src="assets/pomodoro.png" align="left"/> 
+  <a href="https://github.com/piekarskipiotr/shopping-list-app">
+    <img src="assets/shopping_list.png" align="left"/> 
   </a>
   <p>
-    <a href="https://github.com/piekarskipiotr/pomodoro-timer"><b>pomodoro-timer</b></a> is a time management application based on Pomodoro Technique developed by Francesco Cirillo in the late 1980s. The application allows you to create several minutes long sessions with breaks, the user profile contains graphs regarding activity and successes in the application, you can record your own alarm or choose one from 2 availables. [<a href="https://github.com/piekarskipiotr/pomodoro-timer">Show project</a>]
+    <a href="https://github.com/piekarskipiotr/shopping-list-app"><b>shopping-list-app</b></a> is a simple app where you can create a new shopping list and add items to buy. The application was written as a recruitment task. After receiving feedback, I corrected errors and added new features.  [<a href="https://github.com/piekarskipiotr/shopping-list-app">Show project</a>]
   </p>
   <p>
       Built with:<br> 
