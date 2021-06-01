@@ -68,7 +68,7 @@
 <br><br><br><br>
 </p>
 
-##
+
 <br>
 <p>
   <a href="https://github.com/piekarskipiotr/mydiabetes">
@@ -87,7 +87,7 @@
 <br><br><br>
 </p>
 
-##
+
 <br>
 <p>
   <a href="https://github.com/piekarskipiotr/shopping-list-app">
