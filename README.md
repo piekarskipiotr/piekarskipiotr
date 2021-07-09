@@ -32,7 +32,7 @@
 <p>
   <img src="assets\digimon_computer.gif" alt="anime-gif" align="right" width="420px"/>
   <p>
-    I'm a graduate of an IT technical school that is currently working for <a href="https://www.softra.pl/"><b>SOFTRA</b></a> as a Android developer, creating its own projects, learning new technologies and studying computer science at 
+    I'm a graduate of an IT technical school that is currently working for <a href="https://www.softra.pl/"><b>Softra</b></a> as a Android developer, creating its own projects, learning new technologies and studying computer science at 
     <a href="https://cdv.pl/"><b>Collegium Da Vinci</b></a>.
   </p>
 
