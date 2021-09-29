@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://git.io/typing-svg -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=5C57E4&center=true&lines=Android+Developer;Computer+Science+Student;Self-taught+Programmer;Swimming+Lover">
+  <img src="https://readme-typing-svg.herokuapp.com?font=lato&color=00F791&center=true&lines=Android+Developer;Flutter+Developer;Computer+Science+Student;Drink+your+water!;Swimming+Lover">
 </h3>
 
 <!-- Contact section -->
@@ -32,12 +32,12 @@
 <p>
   <img src="assets\digimon_computer.gif" alt="anime-gif" align="right" width="420px"/>
   <p>
-    I'm a graduate of an IT technical school that is currently working for <a href="https://www.softra.pl/"><b>Softra</b></a> as a Android developer, creating its own projects, learning new technologies and studying computer science at 
+    I'm currently working for <a href="https://www.softra.pl/"><b>Softra</b></a> as a Mobile Developer (<i>Android & Flutter</i>), In my free time I'm creating my own projects, mostly mobile apps. On weekends I'm studying computer science at 
     <a href="https://cdv.pl/"><b>Collegium Da Vinci</b></a>.
   </p>
 
   <p>
-    Programming is my passion, I'm focusing on programming mobile applications for android os, but in the future I will be happy to learn multiplatform programming, web and AI stuff. My other goal is to make a game🕹 (<i>I already have an idea for it but for now I'm focusing on other things</i>). In addition to IT, I like to go swimming or watch a good movie/tv series.
+    Why am I programming? <b>Well, because i like it</b>. I mainly code apps to solve my given problem, this is how the best applications are born. Currently, I believe that mobile applications are an ideal means of combating various problems, which is why I deal with mobiles. Apart from these problems I also like to play games sometimes because of that my goal is to make a game🕹. In addition to IT, I like to go swimming or watch a good movie/tv series.
   </p>
 
   <p>
@@ -61,9 +61,9 @@
   </p>
   <p>
       Built with:<br> 
-      <img src="https://img.shields.io/badge/Android-brightgreen?style=flat&logo=android&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/XML-0C54C2?style=flat&logo=xaml&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-brightgreen?style=for-the-badge&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/XML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white"/>
   </p>
 <br><br><br><br>
 </p>
@@ -79,10 +79,10 @@
   </p>
   <p>
       Built with:<br> 
-      <img src="https://img.shields.io/badge/Android-brightgreen?style=flat&logo=android&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/XML-0C54C2?style=flat&logo=xaml&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-brightgreen?style=for-the-badge&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/XML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   </p>
 <br><br><br>
 </p>
@@ -98,9 +98,9 @@
   </p>
   <p>
       Built with:<br> 
-      <img src="https://img.shields.io/badge/Android-brightgreen?style=flat&logo=android&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/XML-0C54C2?style=flat&logo=xaml&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-brightgreen?style=for-the-badge&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/XML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white"/>
   </p>
   <br><br>
 </p>
@@ -110,6 +110,7 @@
 <h4 align="center">More projects</h4>
 <p align="center">
   <a href="https://github.com/piekarskipiotr?tab=repositories&q=Android">👉🏻Android</a> 
+  <a href="https://github.com/piekarskipiotr?tab=repositories&q=Flutter">👉🏻Flutter</a>
   <a href="https://github.com/piekarskipiotr?tab=repositories">👉🏻All</a>
 </p>
 </div>
@@ -121,30 +122,34 @@
 ## 🐱‍💻 Things I code with and more
 
 #### 👾 Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=flat&logo=c&logoColor=white")
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&l&logoColor=white)
-![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=181A1B)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=fflat&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![XML](https://img.shields.io/badge/XML-0C54C2?style=flat&logo=xaml&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white")
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&l&logoColor=white)
+![C#](https://img.shields.io/badge/C%23%20-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=181A1B)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![XML](https://img.shields.io/badge/XML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)
 
-#### 💻 Others 
-![ASP.NET](https://img.shields.io/badge/ASP.NET-7719AA?style=flat&logo=microsoft&logoColor=white)
-![Android](https://img.shields.io/badge/Android-brightgreen?style=flat&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=flat&logo=material-design&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Brave](https://img.shields.io/badge/-Brave-FB542B?style=flat&logo=brave&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+#### 💻 Others
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-7719AA?style=for-the-badge&logo=microsoft&logoColor=white)
+![Android](https://img.shields.io/badge/Android-brightgreen?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Brave](https://img.shields.io/badge/-Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <!--end:Tech stack section-->
 
 <!-- User stats section -->
@@ -194,7 +199,6 @@
   <!--projects-->
   <!--[mydiabetes]: https://github.com/piekarskipiotr/MyDiabetes-->
   <!--[wol]: https://github.com/piekarskipiotr/WakeOnLAN-->
-  <!--[pomodoro]: https://github.com/piekarskipiotr/pomodoro-timer-->
 
   <!--socials and contact-->
   <!--[linkedin]: https://www.linkedin.com/in/piekarskipiotr/-->
