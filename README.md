@@ -90,19 +90,18 @@
 
 <br>
 <p>
-  <a href="https://github.com/piekarskipiotr/shopping-list-app">
-    <img src="assets/shopping_list.png" align="left"/> 
+  <a href="https://github.com/piekarskipiotr/stephanie">
+    <img src="assets/stephanie-logo.png" align="left" height="256" width="330"/> 
   </a>
   <p>
-    <a href="https://github.com/piekarskipiotr/shopping-list-app"><b>shopping-list-app</b></a> is a simple app where you can create a new shopping list and add items to buy. The application was written as a recruitment task. After receiving feedback, I corrected errors and added new features.  [<a href="https://github.com/piekarskipiotr/shopping-list-app">Show project</a>]
+    <a href="https://github.com/piekarskipiotr/stephanie"><b>stephanie</b></a> is a beautiful steganography app where you can conceal or reveal hidden secrets. [<a href="https://github.com/piekarskipiotr/stephanie">Show project</a>]
   </p>
   <p>
       Built with:<br> 
-      <img src="https://img.shields.io/badge/Android-brightgreen?style=for-the-badge&logo=android&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/XML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> 
   </p>
-  <br><br>
+  <br><br><br><br>
 </p>
 
 <br>
