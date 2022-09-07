@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://git.io/typing-svg -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?        font=Lato&size=26&pause=1000&color=5753E1&center=true&width=435&lines=Flutter+Developer;Android+Native+Developer;CS+Student;Swimming+lover;Drink+your+wat er!;And+eat+your+pizza+%F0%9F%8D%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Lato&size=26&pause=1000&color=5753E1&center=true&width=435&lines=Flutter+Developer;Android+Native+Developer;CS+Student;Swimming+lover;Drink+your+wat%20er!;And+eat+your+pizza+%F0%9F%8D%95" alt="Typing SVG" />
 </h3>
 
 <!-- Contact section -->
