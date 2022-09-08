@@ -1,9 +1,9 @@
 <!-- Readme inspired by https://github.com/DenverCoder1 -->
 
 <!-- Header Text -->
-<h2 align="center">
+<h1 align="center">
   Hi 👋🏻  I'm Piotr Piekarski
-</h2>
+</h1>
 
 <!-- Typing SVG by DenverCoder1 - https://git.io/typing-svg -->
 <h3 align="center">
