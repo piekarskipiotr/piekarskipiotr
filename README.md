@@ -37,7 +37,7 @@
   </p>
 
   <p>
-    Why am I programming? <b>Well, because i like it</b>. I mainly code apps to solve my given problem, this is how the best applications are born. Currently, I believe that mobile applications are an ideal means of combating various problems, which is why I deal with mobiles. In addition to IT, I like to go swimming or watch a good anime/tv series and eat some pizza.
+    Why am I programming? <b>Well, because I like it</b>. I mainly code apps to solve my given problem,✨this is how the best applications are born.✨ I believe that mobile applications are an ideal means of combating various problems, which is why I deal with mobiles.<br><br>While I'm not coding I like to go swimming, watch a good anime/tv series and eat pepperoni pizza.
   </p>
 
   <p>
