@@ -4,7 +4,6 @@
 <h1 align="center">
   Hi 👋🏻  I'm Piotr Piekarski
 </h1>
-
 <!-- Typing SVG by DenverCoder1 - https://git.io/typing-svg -->
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Lato&size=26&pause=1000&color=5753E1&center=true&width=435&lines=Flutter+Developer;Android+Native+Developer;CS+Student;Swimming+lover;Drink+your+water!;And+eat+your+pizza+%F0%9F%8D%95" alt="Typing SVG" />
@@ -28,25 +27,13 @@
 <!--end:Contact section-->
 
 <!-- About me section -->
-## 🧑🏻‍💻 About me
-<p>
-  <img src="assets\me.gif" alt="anime-gif" align="right" width="420px"/>
-  <p>
-    I'm currently working for <a href="https://www.softra.pl/"><b>Softra</b></a> as a Mobile Developer (<i>Android & Flutter</i>), In my free time I'm creating my own projects, mostly mobile apps. On weekends I'm studying computer science at 
-    <a href="https://cdv.pl/"><b>Collegium Da Vinci</b></a>.
-  </p>
+## 🧑🏻‍💻 About me 
 
-  <p>
-    Why am I programming? <b>Well, because I like it</b>. I mainly code apps to solve my given problem,✨this is how the best applications are born.✨ I believe that mobile applications are an ideal means of combating various problems, which is why I deal with mobiles.<br><br>While I'm not coding I like to go swimming, watch a good anime/tv series and eat pepperoni pizza.
-  </p>
+<img src="assets\me.gif" alt="anime-gif" width="254px"/>
 
-  <p>
-    You can write to me on one of the above communicators or if you want to talk about collaborate/work, please contact me at: ✉
-    <a href="mailto:ppiekarski8@gmail.com"> 
-      <b>ppiekarski8@gmail.com</b> 
-    </a>
-  </p>
-</p>
+<p>Hi there! 👋🏻 I am a mobile app developer. I started with Android app development using Java, and later switched to Kotlin. Currently, I am working in   the cross-platform area using Flutter 💙, which is a fantastic framework that I hope to stick with for a while.
+
+Besides coding, I like to go swimming, watch good TV shows, eat pizza (pepperoni is a must 🍕), play video games, and listen to good music.</p>
 <!--end:About me section-->
 
 <!-- User stats section -->
@@ -70,8 +57,8 @@
 <br>
 <br>
 
-<!-- Little footer ninja cat d-_-b section -->
-<p align="center">🫶🏻</p>
+<!-- Little footer emoji section -->
+<p align="center">🔵</p>
 <!--end:footer-->
  
 <!--links-->
