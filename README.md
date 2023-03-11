@@ -20,9 +20,6 @@
   <a href="https://twitter.com/xazai_">
     <img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&amp;style=for-the-badge"/>
   </a>
-  <a href="https://www.instagram.com/piekarskiski/">
-    <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&amp;style=for-the-badge"/>
-  </a>
 </p>
 <!--end:Contact section-->
 
@@ -63,19 +60,8 @@ Besides coding, I like to go swimming, watch good TV shows, eat pizza (pepperoni
 <!--end:footer-->
  
 <!--links-->
-
-  <!--my university-->
-  <!--[cdv]: https://cdv.pl/-->
-
-  <!--projects-->
-  <!--[mydiabetes]: https://github.com/piekarskipiotr/MyDiabetes-->
-  <!--[wol]: https://github.com/piekarskipiotr/WakeOnLAN-->
-
   <!--socials and contact-->
   <!--[linkedin]: https://www.linkedin.com/in/piekarskipiotr/-->
   <!--[discord]: xazai#2853-->
   <!--[twitter]: https://twitter.com/xazai_-->
-  <!--[instagram]: https://www.instagram.com/piekarskiski/-->
-  <!--[gmail]: mailto:ppiekarski8@gmail.com-->
-
 <!--end:links-->
