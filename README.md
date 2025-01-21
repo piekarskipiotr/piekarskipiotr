@@ -1,12 +1,10 @@
-<!-- About me section -->
-
 <img src="assets\me.gif" alt="anime-gif" width="254px"/>
 
 ## Hi 👋🏻  I'm Piotr 🧑🏻‍💻
 
-<p>I'm a mobile app developer. I started with Android app development using Java, and later switched to Kotlin. Currently, I'm working in the cross-platform area using Flutter 💙, which is a fantastic framework that I hope to stick with for a while.
+<p>🚀 Seasoned Flutter Developer with 3+ years of experience in building high-quality, cross-platform mobile applications. I specialize in transforming ideas into fully functional apps, managing the entire process from design and development to deployment. My approach combines technical expertise with a strong focus on creating seamless user experiences that drive engagement and deliver value.
 
-Besides coding, I like to go swimming, watch good TV shows, eat pizza (pepperoni is a must 🍕), play video games, and listen to good music.</p>
+Let’s connect and build something amazing together! 🤝</p>
 
-<!--end:About me section-->
+
 
